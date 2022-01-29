@@ -6,9 +6,9 @@ In This project the sensors are connected to the arduino board. Sensor Send data
 
 Components needed:
 
-Arduino UNO board (you can use arduino nano as well)
-Relay
-IR Sensor
-Buzzer
-5V DC Power Supply
-WS2812B Pixel LED Strips
+1. Arduino UNO board (you can use arduino nano as well)
+2. Relay
+3. IR Sensor
+4. Buzzer
+5. 5V DC Power Supply
+6. WS2812B Pixel LED Strips
